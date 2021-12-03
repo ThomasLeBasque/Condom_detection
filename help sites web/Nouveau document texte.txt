@@ -1,0 +1,3 @@
+https://www.w3schools.com/graphics/google_maps_intro.asp
+
+https://stackoverflow.com/questions/29779201/what-is-the-exact-keyword-to-retrieve-pharmacy-information-in-google-apis

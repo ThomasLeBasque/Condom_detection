@@ -1,0 +1,56 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#header {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+#header #left{
+    width: 20%;
+    height: 100%;
+    background-color: violet;
+}
+#header #center{
+    width: 60%;
+    height: 100%;
+    background-color: teal;
+}
+#header #right{
+    width: 20%;
+    height: 100%;
+    background-color: violet;
+}
+
+
+#body {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+#body #left{
+    width: 10%;
+    height: 100%;
+    background-color: brown;
+}
+#body #map{
+    width: 80%;
+    height: 100%;
+    /*background-color: red;*/
+}
+#body #right{
+    width: 10%;
+    height: 100%;
+    background-color: brown;
+}
+
+#footer {
+    height: 10%;
+    width: 100%;
+    background-color: yellow;
+}
